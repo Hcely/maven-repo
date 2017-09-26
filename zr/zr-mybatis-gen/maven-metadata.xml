@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>zr-mybatis-gen</groupId>
+  <groupId>zr</groupId>
   <artifactId>zr-mybatis-gen</artifactId>
   <versioning>
     <release>0.0.1</release>
     <versions>
       <version>0.0.1</version>
     </versions>
-    <lastUpdated>20170926081613</lastUpdated>
+    <lastUpdated>20170926081840</lastUpdated>
   </versioning>
 </metadata>
