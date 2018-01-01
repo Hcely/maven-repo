@@ -161,7 +161,6 @@
 					<artifactId>slf4j-log4j12</artifactId>
 				</exclusion>
 			</exclusions>
-			<scope>provided</scope>
 		</dependency>
 		<dependency>
 			<groupId>com.github.sgroschupf</groupId>
@@ -173,7 +172,6 @@
 					<artifactId>log4j</artifactId>
 				</exclusion>
 			</exclusions>
-			<scope>provided</scope>
 		</dependency>
 		<!-- zk end -->
 
@@ -200,7 +198,6 @@
 					<artifactId>spring-web</artifactId>
 				</exclusion>
 			</exclusions>
-			<scope>provided</scope>
 		</dependency>
 		<!-- dubbo end -->
 
